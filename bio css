@@ -1,0 +1,25 @@
+p.red {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Images/jomotsangkha-wildlife-sanctuary_m0Hoi1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h3 {
+    color: #ffffff;
+    text-decoration: underline;
+}
+h2{
+    color: #fdfdfd;
+    text-decoration: underline;
+}
+h1{
+    color: #ffffff;
+    text-decoration: underline;
+}
+p{
+    font-size: large;
+}
+ul{
+    color: #ffffff;
+}
